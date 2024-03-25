@@ -3,15 +3,15 @@ from setuptools import setup
 setup(
     author='Alex',
     author_email='madest92@mail.com',
-    name='teaxyzzz2',
-    version='1.0.22',
-    description='A simple package for https://app.tea.xyz/. Example teaxyzzz2',
-    url='https://github.com/madest92/teaxyzzz2',
+    name='teaxyzzz7',
+    version='1.0.77',
+    description='A simple package for https://app.tea.xyz/. Example teaxyzzz7',
+    url='https://github.com/madest92/teaxyzzz7',
     project_urls={
-        'Homepage': 'https://github.com/madest92/teaxyzzz2',
-        'Source': 'https://github.com/madest92/teaxyzzz2',
+        'Homepage': 'https://github.com/madest92/teaxyzzz7',
+        'Source': 'https://github.com/madest92/teaxyzzz7',
         },
-    py_modules=['hello_teaxyzzz2'],
+    py_modules=['hello_teaxyzzz7'],
     entry_points={
         'console_scripts': [
             'hello-tea=hello_tea:hello_tea_func'
